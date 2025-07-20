@@ -30,17 +30,11 @@
 - NLP (Natural Language Processing)
 - SQL
 
-## 🚀 Projects
-
-List your highlighted projects here. For example:
-
-- [*Project Name*](https://github.com/sohamchattar/project1): Brief description of your project
-- [*Another Project*](https://github.com/sohamchattar/project2): Brief description of your project
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamchattar&show_icons=true&theme=radical" alt="Soham's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham-4402&show_icons=true&theme=radical" alt="Soham's GitHub stats">
 </p>
 
 
