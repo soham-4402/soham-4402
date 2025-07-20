@@ -21,16 +21,27 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-005571?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 - Machine Learning
 - Deep Learning
 - Data Analysis
 - NLP (Natural Language Processing)
+- SQL
+
+## 🚀 Projects
+
+List your highlighted projects here. For example:
+
+- [*Project Name*](https://github.com/sohamchattar/project1): Brief description of your project
+- [*Another Project*](https://github.com/sohamchattar/project2): Brief description of your project
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham-4402&show_icons=true&theme=radical" alt="Soham's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamchattar&show_icons=true&theme=radical" alt="Soham's GitHub stats">
 </p>
+
 
 ---
